@@ -1,7 +1,7 @@
 # Pizza Sales Analysis
 
 ## Reports
-### [SQL Queries Report](https://github.com/tushar2704/Pizza-Sales-Analysis/blob/main/reports/query_report.pdf)
+### [SQL Queries Report](query_report.pdf)
 
 ### Preview
 
